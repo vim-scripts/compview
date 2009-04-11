@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1803
+
+CompView.vim is a handy little script that I use all the time. After a search term is entered it generates a list of matches and displays a window with all the matching lines. As you move around this window to different matched lines the original window is automatically updated to show you where in the file the match is found. It is like an interactive cw command.
+
+Check out this page for a screen shot of the script in action.
+http://juan.axisym3.net/vim-plugins/#compview
